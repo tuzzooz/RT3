@@ -1,4 +1,5 @@
-import { Somador, Subtrador, Multiplicador, Divisor } from "../libs/submodulo/CalculadoraClass/operacoesmatematicas";
+import { Somador } from '../libs/submodulo/CalculadoraClass/operacoesmatematicas';
+
 
 const somar = new Somador()
 const somado = somar.calcular(3,2)
