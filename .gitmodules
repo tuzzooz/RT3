@@ -1,0 +1,3 @@
+[submodule "libs/submodulo/CalculadoraClass"]
+	path = libs/submodulo/CalculadoraClass
+	url = https://github.com/tuzzooz/CalculadoraClass.git
