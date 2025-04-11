@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const RT3_1 = require("../src/modules/RT3");
+const RT3_1 = require("./libs/submodulo/CalculadoraClass/CalculadoraClass/operacoesmatematicas");
 const somar = new RT3_1.Somador();
 const somado = somar.calcular(3, 2);
 const subtrair = new RT3_1.Subtrador();
